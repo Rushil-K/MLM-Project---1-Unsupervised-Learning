@@ -178,16 +178,14 @@ This project successfully utilized unsupervised learning to segment internationa
 
 ## Code
 
-The code for this project is available in the [Google Colab Notebook](Link to notebook).
+The code for this project is available in the [https://colab.research.google.com/drive/1fuqmpdzxVSN_ZEOMPYyvXMBjuPTyxjkE?usp=sharing].
 
 ## Contributors
 
 - Aayush Garg (055001)
 - Rushil Kohli (055027)
 
-## License
 
-[Specify your license here, e.g., MIT License]
 
 # Follow Me on GitHub : https://github.com/Rushil-K
 
